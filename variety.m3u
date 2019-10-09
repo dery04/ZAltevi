@@ -1,16 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: ANIMAL PLANET WORLD HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: ANIMAL PLANET WORLD HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aa1BSMN.png" group-title="DOCUMENTARY", E!
+http://210.210.155.35:80/uq2663/h/h10/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LkeWgOX.png" group-title="DOCUMENTARY", NAT GEO
+http://203.207.56.228/live/iptv038.m3u8
+#http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSd74Uk.png" group-title="DOCUMENTARY", NAT GEO WILD
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY", NAT GEO PEOPLE
+http://203.207.56.228/live/iptv035.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iDqMdp.png" group-title="DOCUMENTARY", DISCOVERY
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7a0vv0k.png" group-title="DOCUMENTARY", HISTORY
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsQHmHW.png" group-title="DOCUMENTARY", ANIMAL PLANET
+http://203.207.56.228/live/iptv019.m3u8
+#http://203.153.218.28:9981/stream/channelid/1943600623?ticket=B9755D3F6F97FAC8FEFC0E14BC05B2F2CE0CDB76&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GdSTkY3.png" group-title="DOCUMENTARY", BBC EARTH
+http://203.207.56.228/live/iptv001.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JQVPE0Q.png" group-title="DOCUMENTARY", BBC LIFESTYLE
+http://203.207.56.228/live/iptv002.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRR4zY8.png" group-title="DOCUMENTARY", CGTN DOCUMENTARY
+http://45.126.83.51:80/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFlF21c.png" group-title="DOCUMENTARY", TV5 MONDE STYLE
+http://210.210.155.35:80/uq2663/h/h01/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: ANIMAL PLANET WORLD HD" tvg-logo="" group-title="DOCUMENTARY",ENGLISH: ANIMAL PLANET WORLD HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23918
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NAT GEO MUSIC HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: NAT GEO MUSIC HD
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NAT GEO MUSIC HD" tvg-logo="" group-title="DOCUMENTARY",ENGLISH: NAT GEO MUSIC HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23898
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NAT GEO PEOPLE HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: NAT GEO PEOPLE HD
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NAT GEO PEOPLE HD" tvg-logo="" group-title="DOCUMENTARY",ENGLISH: NAT GEO PEOPLE HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23897
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NAT GEO WILD HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: NAT GEO WILD HD
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NAT GEO WILD HD" tvg-logo="" group-title="DOCUMENTARY",ENGLISH: NAT GEO WILD HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23896
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="DOCUMENTARY",ENGLISH: NATIONAL GEOGRAPHIC HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23895
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: HISTORY TV18 HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: HISTORY TV18 HD
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: HISTORY TV18 HD" tvg-logo="" group-title="DOCUMENTARY",ENGLISH: HISTORY TV18 HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23903
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISCOVERY WORLD HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: DISCOVERY WORLD HD
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISCOVERY WORLD HD" tvg-logo="" group-title="DOCUMENTARY",ENGLISH: DISCOVERY WORLD HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23910
