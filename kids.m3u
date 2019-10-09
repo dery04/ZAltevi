@@ -1,12 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: CARTOON NETWORK" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: CARTOON NETWORK
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: CARTOON NETWORK" tvg-logo="" group-title="KIDS",ENGLISH: CARTOON NETWORK
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23915
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: CARTOON NETWORK PLUS HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: CARTOON NETWORK PLUS HD
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: CARTOON NETWORK PLUS HD" tvg-logo="" group-title="KIDS",ENGLISH: CARTOON NETWORK PLUS HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23914
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISNEY" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: DISNEY
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISNEY" tvg-logo="" group-title="KIDS",ENGLISH: DISNEY
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23909
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISNEY INTERNATIONAL HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: DISNEY INTERNATIONAL HD
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISNEY INTERNATIONAL HD" tvg-logo="" group-title="KIDS",ENGLISH: DISNEY INTERNATIONAL HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23908
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISNEY XD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: DISNEY XD
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: DISNEY XD" tvg-logo="" group-title="KIDS",ENGLISH: DISNEY XD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23907
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EH88d1S.png" group-title="KIDS", DISNEY JUNIOR
+http://103.47.132.164:80/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WdqfIXq.png" group-title="KIDS", DISNEY CHANNEL
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=7EBA9919CF424955624136DA7C78C1A9C52153D4&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DoG76C.png" group-title="KIDS", NICKELODEON
+http://203.207.56.228/live/iptv014.m3u8
+#http://203.153.218.28:9981/stream/channelid/648970596?ticket=46A461134024F7B021E4EEAF0EA4283BD6CDD078&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMeg2oO.png" group-title="KIDS", NICK JUNIOR
+http://203.207.56.228/live/iptv018.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RWD5R2i.png" group-title="KIDS", ANIMAX
+http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gsBmKtz.png" group-title="KIDS", MY KIDS
+http://210.210.155.35:80/x6bnqe/s/s113/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCnPT30.png" group-title="KIDS", ANI PLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tXAf6Jl.png" group-title="KIDS", BOOMERANG
+http://203.207.56.228/live/iptv026.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQ63HRh.png" group-title="KIDS", CARTOON NETWORK
+http://203.207.56.228/live/iptv027.m3u8
