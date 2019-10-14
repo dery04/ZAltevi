@@ -1,5 +1,49 @@
 #EXTM3U
 
+####### D2H MOVIE #######
+EXTINF:-1 tvg-id="" tvg-name="HINDI - SONY PIX HD" tvg-logo="http://212.8.253.112/logo/INDIAN/SonyPix.png" group-title="D2H MOVIE",HINDI - SONY PIX HD
+http://tvservice.pro:80/be8474928/442048728/34587
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - HBO INDIA HD" tvg-logo="http://212.8.253.112/logo/INDIAN/HBOINDIAHD.png" group-title="D2H MOVIE",ENGLISH - HBO INDIA HD
+http://tvservice.pro:80/be8474928/442048728/34702
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - HISTORY TV18 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/HISTORYTV18HD.png" group-title="D2H MOVIE",ENGLISH - HISTORY TV18 HD
+http://tvservice.pro:80/be8474928/442048728/34701
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - MIRROR NOW HD" tvg-logo="http://212.8.253.112/logo/INDIAN/MIRRORNOWHD.png" group-title="D2H MOVIE",ENGLISH - MIRROR NOW HD
+http://tvservice.pro:80/be8474928/442048728/34700
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - MN PLUS HD" tvg-logo="http://212.8.253.112/logo/INDIAN/MNPLUSHD.png" group-title="D2H MOVIE",ENGLISH - MN PLUS HD
+http://tvservice.pro:80/be8474928/442048728/34699
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - MNX HD" tvg-logo="http://212.8.253.112/logo/INDIAN/MNXHD.png" group-title="D2H MOVIE",ENGLISH - MNX HD
+http://tvservice.pro:80/be8474928/442048728/34698
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - MOVIES NOW HD" tvg-logo="http://212.8.253.112/logo/INDIAN/MOVIESNOWHD.png" group-title="D2H MOVIE",ENGLISH - MOVIES NOW HD
+http://tvservice.pro:80/be8474928/442048728/34697
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - STAR MOVIES HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARMOVIESSELECT.png" group-title="D2H MOVIE",ENGLISH - STAR MOVIES HD
+http://tvservice.pro:80/be8474928/442048728/34688
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - STAR MOVIES SELECT HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARMOVIESSELECT.png" group-title="D2H MOVIE",ENGLISH - STAR MOVIES SELECT HD
+http://tvservice.pro:80/be8474928/442048728/34687
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - STAR WORLD HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARWORLDHD.png" group-title="D2H MOVIE",ENGLISH - STAR WORLD HD
+http://tvservice.pro:80/be8474928/442048728/34686
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - STAR WORLD PREMIER HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARWORLDPREMIERHD.png" group-title="D2H MOVIE",ENGLISH - STAR WORLD PREMIER HD
+http://tvservice.pro:80/be8474928/442048728/34685
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - TATA SKY KIDS CINEMA" tvg-logo="http://212.8.253.112/logo/INDIAN/TATASKYWORLDCINEMAHD.png" group-title="D2H MOVIE",ENGLISH - TATA SKY KIDS CINEMA
+http://tvservice.pro:80/be8474928/442048728/34684
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH - TATA SKY WORLD CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/TATASKYWORLDCINEMAHD.png" group-title="D2H MOVIE",ENGLISH - TATA SKY WORLD CINEMA HD
+http://tvservice.pro:80/be8474928/442048728/34683
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SELECT 1 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT1HD.png" group-title="D2H MOVIE",DE - SKY SELECT 1 HD
+http://tvservice.pro:80/be8474928/442048728/33524
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SELECT 2 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT2HD.png" group-title="D2H MOVIE",DE - SKY SELECT 2 HD
+http://tvservice.pro:80/be8474928/442048728/33523
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SELECT 3 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT3HD.png" group-title="D2H MOVIE",DE - SKY SELECT 3 HD
+http://tvservice.pro:80/be8474928/442048728/33522
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SELECT 4 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT4HD.png" group-title="D2H MOVIE",DE - SKY SELECT 4 HD
+http://tvservice.pro:80/be8474928/442048728/33521
+#EXTINF:-1 tvg-id="" tvg-name="DE - SKY SELECT 5 HD" tvg-logo="http://212.8.253.112/logo/GERMANY/SKYSELECT5HD.png" group-title="D2H MOVIE",DE - SKY SELECT 5 HD
+http://tvservice.pro:80/be8474928/442048728/33520
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR - BEIN BOX OFFICE 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINBOXOFFICE2.png" group-title="D2H MOVIE",TR - BEIN BOX OFFICE 1 HD
+http://tvservice.pro:80/be8474928/442048728/39595
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR - BEIN BOX OFFICE 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINBOXOFFICE2.png" group-title="D2H MOVIE",TR - BEIN BOX OFFICE 2 HD
+http://tvservice.pro:80/be8474928/442048728/39594
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR - BEIN BOX OFFICE 3 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINBOXOFFICE3.png" group-title="D2H MOVIE",TR - BEIN BOX OFFICE 3 HD
+http://tvservice.pro:80/be8474928/442048728/39593
+
 ####### pandar MOVIE #######
 #EXTINF:-1 tvg-ID="" tvg-name="ENGLISH: AND FLIX HD" tvg-logo="" group-title="MOVIE PANDAR",ENGLISH: AND FLIX HD
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/23920
