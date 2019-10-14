@@ -1,5 +1,99 @@
 #EXTM3U
 
+####### D2H SPORTS #######
+#EXTINF:-1 tvg-id="nbcsnwashington.us" tvg-name="USA VIP - NBCSN HD" tvg-logo="http://212.8.253.112/logo/USA/NBCSN.png" group-title="D2H SPORTS",USA VIP - NBCSN HD
+http://tvservice.pro:80/be8474928/442048728/43629
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - D SPORTS HD" tvg-logo="http://212.8.253.112/logo/INDIAN/DSPORTSHD.png" group-title="D2H SPORTS",SPORTS - D SPORTS HD
+http://tvservice.pro:80/be8474928/442048728/34496
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - SONY ESPN HD" tvg-logo="http://212.8.253.112/logo/INDIAN/SonyESPNHD.png" group-title="D2H SPORTS",SPORTS - SONY ESPN HD
+http://tvservice.pro:80/be8474928/442048728/34495
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - SONY SIX HD" tvg-logo="http://212.8.253.112/logo/INDIAN/SonySixHD.png" group-title="D2H SPORTS",SPORTS - SONY SIX HD
+http://tvservice.pro:80/be8474928/442048728/34494
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH HD" tvg-logo="http://212.8.253.112/logo/INDIAN/StarSports1HD.png" group-title="D2H SPORTS",SPORTS - STAR SPORTS 1 ENGLISH HD
+http://tvservice.pro:80/be8474928/442048728/34493
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 HINDI HD" tvg-logo="http://212.8.253.112/logo/INDIAN/StarSports1HD.png" group-title="D2H SPORTS",SPORTS - STAR SPORTS 1 HINDI HD
+http://tvservice.pro:80/be8474928/442048728/34492
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/StarSports2HD.png" group-title="D2H SPORTS",SPORTS - STAR SPORTS 2 HD
+http://tvservice.pro:80/be8474928/442048728/34491
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 3" tvg-logo="http://212.8.253.112/logo/INDIAN/STARSPORTSTAMIL.png" group-title="D2H SPORTS",SPORTS - STAR SPORTS 3
+http://tvservice.pro:80/be8474928/442048728/34490
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS SELECT 1 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARSPORTSTAMIL.png" group-title="D2H SPORTS",SPORTS - STAR SPORTS SELECT 1 HD
+http://tvservice.pro:80/be8474928/442048728/34489
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS SELECT 2 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARSPORTSTAMIL.png" group-title="D2H SPORTS",SPORTS - STAR SPORTS SELECT 2 HD
+http://tvservice.pro:80/be8474928/442048728/34488
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS TAMIL" tvg-logo="http://212.8.253.112/logo/INDIAN/STARSPORTSTAMIL.png" group-title="D2H SPORTS",SPORTS - STAR SPORTS TAMIL
+http://tvservice.pro:80/be8474928/442048728/34487
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - TEN 1 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/TEN1HD.png" group-title="D2H SPORTS",SPORTS - TEN 1 HD
+http://tvservice.pro:80/be8474928/442048728/34486
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - TEN 2 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/TEN2HD.png" group-title="D2H SPORTS",SPORTS - TEN 2 HD
+http://tvservice.pro:80/be8474928/442048728/34485
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - TEN 3 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/TEN1HD.png" group-title="D2H SPORTS",SPORTS - TEN 3 HD
+http://tvservice.pro:80/be8474928/442048728/34484
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="D2H SPORTS",BEIN SPORTS 1 HD
+http://tvservice.pro:80/be8474928/442048728/27901
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD2%C2%B3.png" group-title="D2H SPORTS",BEIN SPORTS 2 HD
+http://tvservice.pro:80/be8474928/442048728/27900
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD3%C2%B3.png" group-title="D2H SPORTS",BEIN SPORTS 3 HD
+http://tvservice.pro:80/be8474928/442048728/27899
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTHD4%C2%B3.png" group-title="D2H SPORTS",BEIN SPORTS 4 HD
+http://tvservice.pro:80/be8474928/442048728/27898
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="BEIN SPORTS 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS5.png" group-title="D2H SPORTS",BEIN SPORTS 5 HD
+http://tvservice.pro:80/be8474928/442048728/27897
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORTS 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD6%C2%B3.png" group-title="D2H SPORTS",BEIN SPORTS 6 HD
+http://tvservice.pro:80/be8474928/442048728/27896
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD7%C2%B3.png" group-title="D2H SPORTS",BEIN SPORTS 7 HD
+http://tvservice.pro:80/be8474928/442048728/27895
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="BEIN SPORTS 8 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD8%C2%B3.png" group-title="D2H SPORTS",BEIN SPORTS 8 HD
+http://tvservice.pro:80/be8474928/442048728/27894
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="BEIN SPORTS 9 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT9720HD%C2%B2.png" group-title="D2H SPORTS",BEIN SPORTS 9 HD
+http://tvservice.pro:80/be8474928/442048728/27893
+#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="BEIN SPORTS 10 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT101.2MB.png" group-title="D2H SPORTS",BEIN SPORTS 10 HD
+http://tvservice.pro:80/be8474928/442048728/27892
+#EXTINF:-1 tvg-id="beINSports11.qa" tvg-name="BEIN SPORTS 11 HD EN" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="D2H SPORTS",BEIN SPORTS 11 HD EN
+http://tvservice.pro:80/be8474928/442048728/27891
+#EXTINF:-1 tvg-id="beINSports12.qa" tvg-name="BEIN SPORTS 12 HD EN" tvg-logo="http://212.8.253.112/logo/ASIA/QATAR/BEINSPORTS.png" group-title="D2H SPORTS",BEIN SPORTS 12 HD EN
+http://tvservice.pro:80/be8474928/442048728/63876
+#EXTINF:-1 tvg-id="beINSports13.qa" tvg-name="BEIN SPORTS 13 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="D2H SPORTS",BEIN SPORTS 13 HD
+http://tvservice.pro:80/be8474928/442048728/27889
+#EXTINF:-1 tvg-id="beINSports14.qa" tvg-name="BEIN SPORTS 14 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="D2H SPORTS",BEIN SPORTS 14 HD
+http://tvservice.pro:80/be8474928/442048728/49357
+#EXTINF:-1 tvg-id="beINSports15.qa" tvg-name="BEIN SPORTS 15 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="D2H SPORTS",BEIN SPORTS 15 HD
+http://tvservice.pro:80/be8474928/442048728/27887
+#EXTINF:-1 tvg-id="beINSports16.qa" tvg-name="BEIN SPORTS 16 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="D2H SPORTS",BEIN SPORTS 16 HD
+http://tvservice.pro:80/be8474928/442048728/27886
+#EXTINF:-1 tvg-id="beINSportsNBA.qa" tvg-name="BEIN SPORTS NBA HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNBA.png" group-title="D2H SPORTS",BEIN SPORTS NBA HD
+http://tvservice.pro:80/be8474928/442048728/27884
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT1HD.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 1 HD
+http://tvservice.pro:80/be8474928/442048728/39910
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 1 SR" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT1SR.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 1 SR
+http://tvservice.pro:80/be8474928/442048728/39909
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 1 SR HD" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT1SR.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 1 SR HD
+http://tvservice.pro:80/be8474928/442048728/39908
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT2HD.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 2 HD
+http://tvservice.pro:80/be8474928/442048728/39907
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 2 SR" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT2SR%20%282%29.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 2 SR
+http://tvservice.pro:80/be8474928/442048728/39906
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 2 SR HD" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT2SR.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 2 SR HD
+http://tvservice.pro:80/be8474928/442048728/39905
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 3 HD" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT3HD.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 3 HD
+http://tvservice.pro:80/be8474928/442048728/39904
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 3 SR" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT3SR%20%282%29.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 3 SR
+http://tvservice.pro:80/be8474928/442048728/39903
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 3 SR HD" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT3SR.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 3 SR HD
+http://tvservice.pro:80/be8474928/442048728/39902
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 4 HD" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT4HR.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 4 HD
+http://tvservice.pro:80/be8474928/442048728/39901
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 4 SR" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT4HD.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 4 SR
+http://tvservice.pro:80/be8474928/442048728/39900
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 4 SR HD" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT4HD.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 4 SR HD
+http://tvservice.pro:80/be8474928/442048728/39899
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - ARENA SPORT 5 HD" tvg-logo="http://212.8.253.112/logo/EXYU/ARENASPORT5HR.png" group-title="D2H SPORTS",SPORTS - ARENA SPORT 5 HD
+http://tvservice.pro:80/be8474928/442048728/39898
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 BAR HD" tvg-logo="" group-title="D2H SPORTS",DAZN 1 BAR HD
+http://tvservice.pro:80/be8474928/442048728/45656
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 BAR HD" tvg-logo="" group-title="D2H SPORTS",DAZN 2 BAR HD
+http://tvservice.pro:80/be8474928/442048728/45657
+
 #EXTINF:-1 tvg-ID="4K" tvg-name="BEIN_4K" tvg-logo="http://universeiptv.org/pics/bein-4k.png" group-title="BEIN",BEIN_4K
 http://universeiptv.com:8000/0505716965aa/pONDuUohx8/33321
 #EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN_SPORT_1_H265" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_H265
