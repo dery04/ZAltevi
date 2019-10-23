@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title ="VOD",Mendadak Kaya (2019)
+https://www.googleapis.com/drive/v3/files/1ejOdMgCtlYv5BIBm3uOaq2P1haLI-S3A?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E
+#EXTINF:-1 group-title ="VOD",Rin (2019)
+https://www.googleapis.com/drive/v3/files/1-39mWejJEwcKdwoXg4qxYUanFQ0bfo_U?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E
+#EXTINF:-1 group-title ="VOD",Detective Conan: The Fist of Blue Sapphire (2019)
+https://www.googleapis.com/drive/v3/files/1yL3LCA3it0VgRMbKcDkJMmfDD0PDaNqj?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E
 #EXTINF:-1 group-title ="VOD",stuber 2019
 https://www.googleapis.com/drive/v3/files/1jm1-h_7PACLDYlNskiDu30Pe0wldxlJ7?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E
 #EXTINF:-1 group-title ="VOD",Eternal Code (2019)
