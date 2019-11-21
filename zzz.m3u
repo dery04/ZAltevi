@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="XXX",NYX Media 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="ZZZ",NYX Media 1
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="ZZZ",NYX Media 1
 https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
